@@ -566,7 +566,7 @@ text{
 	top: 31px;
 	left: 8px;
 	display: none;
-	width: 356px;
+	width: 566px;
 	padding: 10px 0px 10px 10px;
 	box-shadow: inset 0 0 2px #333;
 }
@@ -602,7 +602,7 @@ text{
 	display: block;
 }
 .languageDropdown >ul>li>ul>li{
-	width: 55px;
+	width: 90px;
 	margin: 1px;
 }
 .languageDropdown >ul>li>ul>li:hover{
